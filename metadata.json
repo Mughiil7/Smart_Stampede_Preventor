@@ -1,0 +1,9 @@
+{
+  "name": "Stampede Preventor",
+  "description": "A smart safety app that monitors sound levels and device movement to detect and prevent potential stampede situations through real-time alerts and location sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
